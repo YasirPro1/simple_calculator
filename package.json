@@ -1,7 +1,7 @@
 {
   "name": "yasirpro1_simple_calculator",
   "version": "1.0.1",
-  "description": "A simple calculator with Typescript, Node.js and Iquirer",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
